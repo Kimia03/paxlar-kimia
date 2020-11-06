@@ -1,0 +1,178 @@
+@media(max-width: 1199){
+
+}
+@media(max-width: 991px){
+
+}
+@media(max-width: 767px){
+    span {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    color: #949494;
+    display: inline-block;
+    text-transform: uppercase;
+
+}
+.con {
+    text-decoration: none;
+    color: #949494;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+element.style {
+    width: 168%;
+}
+ .service {
+    display: inline-block;
+    justify-content: space-around;
+    position: relative;
+    padding: 30px 0px;
+}
+}
+@media (max-width: 574px){
+    .service {
+    display: inline-block;
+    justify-content: space-around;
+    position: relative;
+    padding: 30px 0px;
+}
+.service img {
+    vertical-align: middle;
+    border-style: none;
+    width: 70%;
+}
+.ban-con h1 {
+    text-align: center;
+    font-weight: 800;
+    color: #fff;
+    font-size: 30px;
+}
+.h4, h4 {
+    /* font-size: 1.5rem; */
+    font-size: 20px;
+}
+.h5, h5 {
+    /* font-size: 1.25rem; */
+    font-size: 15px;
+}
+.banner {
+    background-image: url(../images/banner.png);
+    background: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background: #101010;
+}
+.exchange {
+    display: inline-block;
+    justify-content: space-between;
+    padding: 50px 0px;
+    text-align: center;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    /* background-color: #0062cc; */
+    /* border-color: #005cbf; */
+}
+.btn-primary:hover h4{
+    color: #f78f2f;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+.sim-con {
+    display: inline-block;
+}
+.simple {
+    /* background-image: url(../images/bg2.png); */
+    background-repeat: no-repeat;
+    position: relative;
+    background-color: #000;
+}
+.phone img {
+    width: 100%;
+    height: 389px;
+}
+.logo {
+    left: 116%;
+    content: '';
+    position: absolute;
+    width: 88%;
+    height: 70%;
+    left: 116%;
+    left: 30%;
+    top: 175%;
+    transform: translate(-30px,-175%);
+}
+.sp p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 8px;
+}
+.sp img {
+    vertical-align: middle;
+    border-style: none;
+    width: 70%;
+}
+.orgs {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 8px;
+}
+.expert{
+    display: inline-block;
+}
+.center {
+    padding: 200px 0px;
+    text-align: center;
+}
+.center-img img {
+    vertical-align: middle;
+    border-style: none;
+    width: 60%;
+}
+.pen {
+    position: absolute;
+    content: '';
+    left: 10%;
+    top: 69%;
+    width: 15%;
+    height: 15%;
+    transform: translate(-10%,-60%);
+}
+.bitcoin {
+    display: inline-block;
+    justify-content: space-between;
+}
+.footer-part{
+    display: inline-block;
+}
+.logoo{
+    padding-bottom: 10px;
+}
+.end{
+    display: inline-block;
+}
+.before {
+    content: '';
+    position: absolute;
+    width: 16%;
+    height: 5px;
+    left: 102%;
+    top: 78%;
+    transform: translate(-95%,-65%);
+}
+.coma {
+    position: absolute;
+    content: '';
+    left: 58%;
+    top: 51%;
+    width: 15%;
+    height: 15%;
+    transform: translate(-65%,-55%);
+}
+
+}
+@media (max-width: 320px)
